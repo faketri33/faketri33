@@ -36,4 +36,19 @@ src="https://img.shields.io/github/followers/faketri33?logo=github&style=for-the
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/faketri33/WebShopMicroservice" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=faketri33&repo=WebShopMicroservice&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/faketri33/Sandbox" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=faketri33&repo=Sandbox&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/faketri33/GLANCES-WEB-SHOP" align="center">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=faketri33&repo=GLANCES-WEB-SHOP&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=false&locale=en" />
+</a>
+</div>
+<br/>
+<div width="100%" align="center">
+  <a href="https://github.com/faketri33/WebShopMicroservice" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=faketri33&repo=WebShopMicroservice&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/faketri33/Sandbox" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=faketri33&repo=Sandbox&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
